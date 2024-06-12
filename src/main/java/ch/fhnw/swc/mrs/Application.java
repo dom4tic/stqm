@@ -16,6 +16,7 @@ import static spark.Spark.awaitInitialization;
  */
 public final class Application {
 
+
     /**
      * The Application main entry point.
      * 
